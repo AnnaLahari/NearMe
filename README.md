@@ -4,7 +4,7 @@
 ## AIM:
 To develop a website to display details about the places around my house.
 
-## DESIGN STEPS
+## DESIGN STEPS:
 
 ### STEP 1
 Create a Django admin interface.
@@ -24,7 +24,7 @@ Write HTML programs for all the regions identified.
 ### STEP 6
 Execute the programs and publish them.
 
-## CODE
+## CODE:
 ```
 <html>
     <title>Mycity</title>
@@ -154,17 +154,24 @@ Execute the programs and publish them.
 ```
 ## OUTPUT:
 
+
 ![WhatsApp Image 2024-04-15 at 00 09 40_2c960924](https://github.com/AnnaLahari/NearMe/assets/149365425/626342ae-66d5-4753-957d-a6fa15307def)
+
 
 ![image](https://github.com/AnnaLahari/NearMe/assets/149365425/1f87ff3f-f297-4202-bbbd-06418a18fb5e)
 
+
 ![Screenshot 2024-04-15 001807](https://github.com/AnnaLahari/NearMe/assets/149365425/0ea0f14a-a934-4bef-a287-f65630016aab)
+
 
 ![Screenshot 2024-04-15 001831](https://github.com/AnnaLahari/NearMe/assets/149365425/82d0e4e4-4368-485d-b284-33275742348c)
 
+
 ![Screenshot 2024-04-15 001852](https://github.com/AnnaLahari/NearMe/assets/149365425/46ac804f-b999-4645-8462-6dab4fb1ebfa)
 
+
 ![Screenshot 2024-04-15 001912](https://github.com/AnnaLahari/NearMe/assets/149365425/2c4eea5d-0f58-468b-950b-e8d3db360212)
+
 
 
 ## RESULT
